@@ -1,4 +1,4 @@
-module github.com/golang-module/dongle
+module github.com/gozelle/dongle
 
 go 1.14
 

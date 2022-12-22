@@ -1,7 +1,7 @@
 package dongle
 
 import (
-	"github.com/golang-module/dongle/morse"
+	"github.com/gozelle/dongle/morse"
 )
 
 // ByMorse encodes by morse.

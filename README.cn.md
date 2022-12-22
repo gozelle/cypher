@@ -1,10 +1,10 @@
 # dongle  #
 
-[![Carbon Release](https://img.shields.io/github/release/golang-module/dongle.svg)](https://github.com/golang-module/dongle/releases)
-[![Go Build](https://github.com/golang-module/dongle/actions/workflows/test.yml/badge.svg)](https://github.com/golang-module/dongle/actions)
-[![Go Report Card](https://goreportcard.com/badge/github.com/golang-module/dongle)](https://goreportcard.com/report/github.com/golang-module/dongle)
+[![Carbon Release](https://img.shields.io/github/release/golang-module/dongle.svg)](https://github.com/gozelle/dongle/releases)
+[![Go Build](https://github.com/gozelle/dongle/actions/workflows/test.yml/badge.svg)](https://github.com/gozelle/dongle/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/gozelle/dongle)](https://goreportcard.com/report/github.com/gozelle/dongle)
 [![codecov](https://codecov.io/gh/golang-module/openssl/branch/main/graph/badge.svg)](https://codecov.io/gh/golang-module/dongle)
-[![Go doc](https://img.shields.io/badge/go.dev-reference-brightgreen?logo=go&logoColor=white&style=flat)](https://pkg.go.dev/github.com/golang-module/dongle)
+[![Go doc](https://img.shields.io/badge/go.dev-reference-brightgreen?logo=go&logoColor=white&style=flat)](https://pkg.go.dev/github.com/gozelle/dongle)
 ![License](https://img.shields.io/github/license/golang-module/dongle)
 
 简体中文 | [English](README.md)
@@ -13,7 +13,7 @@
 
 `Dongle` 已被 [awesome-go](https://github.com/avelino/awesome-go#security "awesome-go") 收录, 如果您觉得不错，请给个 star 吧
 
-[github.com/golang-module/dongle](https://github.com/golang-module/dongle "github.com/golang-module/dongle")
+[github.com/gozelle/dongle](https://github.com/gozelle/dongle "github.com/gozelle/dongle")
 
 [gitee.com/golang-module/dongle](https://gitee.com/golang-module/dongle "gitee.com/golang-module/dongle")
 
@@ -21,10 +21,10 @@
 
 ```go
 // 使用 github 库
-go get -u github.com/golang-module/dongle
+go get -u github.com/gozelle/dongle
 
 import (
-    "github.com/golang-module/dongle"
+    "github.com/gozelle/dongle"
 )
 
 // 使用 gitee 库

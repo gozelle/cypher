@@ -1,6 +1,6 @@
 // @Package dongle
 // @Description a simple, semantic and developer-friendly golang package for encoding&decoding, encryption&decryption and signature&verification
-// @Page github.com/golang-module/dongle
+// @Page github.com/gozelle/dongle
 // @Developer gouguoyin
 // @Blog www.gouguoyin.com
 // @Email contact@gouguoyin.com
